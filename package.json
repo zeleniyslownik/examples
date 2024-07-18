@@ -10,6 +10,7 @@
     "new-example": "plop example",
     "prepare": "husky install",
     "prettier": "prettier --write ."
+    "redirector": "npm install @redirection.io/vercel-middleware"
   },
   "pre-commit": "lint-staged",
   "lint-staged": {
