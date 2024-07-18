@@ -3,7 +3,7 @@
     "license": "MIT",
     "private": true,
     "engines": {
-        "npm": "7*"
+        "npm": "7"
     },
     "scripts": {
         "eslint": "npm init @eslint/config@latest",
