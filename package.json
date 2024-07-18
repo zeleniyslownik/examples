@@ -6,7 +6,6 @@
         "npm": "7"
     },
     "scripts": {
-        "eslint": "npm init @eslint/config@latest",
-        "redirector": "npm install @redirection.io/vercel-middleware"
+        "eslint": "npm init @eslint/config@latest"
     }
 }
